@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1397644871499
+Build-Jdk: 1.7.0_51
+Built-By: leminhquan
+Bundle-Activator: net.luvina.leminhquan.testListener.internal.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: testListener
+Bundle-SymbolicName: net.luvina.leminhquan.testListener
+Bundle-Version: 1.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.5,2)",org.osgi.util.track
+ er;version="[1.4,2)",org.wiperdog.bundleextractor;version="[1.0,2)"
+Tool: Bnd-2.1.0.20130426-122213
